@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-Testing 
-
---feature-A
-=======
-Testing
-
-
-feature-C 
-
-
 
 testing in github
 
@@ -20,4 +9,7 @@ this is CAI !!
 
 this us from china !
 
-Hello world . !!! 
+
+
+
+Hi CAI  !
