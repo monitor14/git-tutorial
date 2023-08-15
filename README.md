@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Testing 
-
---feature-A
-=======
-Testing
 
 
 feature-C 
@@ -13,9 +7,4 @@ feature-C
 testing in github
 
 
-testing in remote github pull
-
-
-this is CAI !!
-
-this us from china !
+testing from CAI  2023.8.15
